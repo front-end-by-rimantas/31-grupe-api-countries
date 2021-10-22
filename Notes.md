@@ -17,7 +17,7 @@ latvija.json {
 GET: http://localhost:3000/latvija/
 gausim Latvijos objekta
 
-PUT: http://localhost:3000/laTvija/size/75000/
+PUT: http://localhost:3000/laTvija/
 
 ```
 {
